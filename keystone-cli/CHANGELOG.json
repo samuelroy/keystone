@@ -2,6 +2,18 @@
   "name": "@keystone.sh/cli",
   "entries": [
     {
+      "version": "0.0.7",
+      "tag": "@keystone.sh/cli_v0.0.7",
+      "date": "Mon, 06 Jan 2020 17:32:16 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "check if user has the latest version"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.6",
       "tag": "@keystone.sh/cli_v0.0.6",
       "date": "Mon, 06 Jan 2020 15:11:42 GMT",
